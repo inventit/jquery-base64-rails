@@ -1,4 +1,5 @@
 require "bundler/setup"
+require "rails/engine"
 require "jquery/base64/rails"
 
 RSpec.configure do |config|
