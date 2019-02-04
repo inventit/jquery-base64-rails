@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Toshiyuki HINA"]
   spec.email         = ["thina@yourinventit.com"]
 
-  spec.summary       = %q{Integrate jquery.migrate assets in your Rails asset pipeline}
-  spec.description   = %q{Wrap jquery.migrate and provide the assets as a gem}
+  spec.summary       = %q{Integrate jquery-base64 assets in your Rails asset pipeline}
+  spec.description   = %q{Wrap jquery-base64 and provide the assets as a gem}
   spec.homepage      = "https://github.com/inventit/jquery-base64-rails"
   spec.license       = "MIT"
 
